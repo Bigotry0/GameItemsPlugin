@@ -68,5 +68,3 @@ DerivedDataCache/*
 
 # VS Code Workspace
 *.code-workspace
-
-*.ddargs.json
